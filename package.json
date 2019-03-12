@@ -1,0 +1,24 @@
+{
+  "name": "react-boilerpage",
+  "version": "1.0.0",
+  "description": "A ready-made container for your React pages. Connects to your store and provides you with necessary actions and data in Context. Also loads/resets data for you by calling respective actions and can manage URL state as well.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balgamat/react-boilerpage.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "boilerplate"
+  ],
+  "author": "Matej Balga",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/balgamat/react-boilerpage/issues"
+  },
+  "homepage": "https://github.com/balgamat/react-boilerpage#readme"
+}
